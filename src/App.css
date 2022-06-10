@@ -1,0 +1,13 @@
+button a{
+  color: white;
+  text-decoration: none;
+}
+
+.aqua *{
+  color:aqua;
+}
+
+button{
+  width: 150px;
+}
+
